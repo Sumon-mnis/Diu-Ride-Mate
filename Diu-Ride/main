@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 76a9addc3cfacfac43ad490b0f04342f52ab828d mnis6010 <44164343-mnis6010@users.noreply.replit.com> 1750679151 +0000	commit (initial): Initial commit
+76a9addc3cfacfac43ad490b0f04342f52ab828d f626e32b047bc4b183160159c58cd28c018cadc1 mnis6010 <44164343-mnis6010@users.noreply.replit.com> 1750679585 +0000	commit: Set up the project's frontend, including UI components and core features
+f626e32b047bc4b183160159c58cd28c018cadc1 4dc64adda7bcb26130a11ff5d054649ea8af0bbe mnis6010 <44164343-mnis6010@users.noreply.replit.com> 1752330537 +0000	reset: moving to 4dc64adda7bcb26130a11ff5d054649ea8af0bbe
+4dc64adda7bcb26130a11ff5d054649ea8af0bbe 2d47bec3ec74b2bad6951e0c2eed8e55b7a52c9b mnis6010 <44164343-mnis6010@users.noreply.replit.com> 1752330760 +0000	commit: Introduce landing page to welcome users and explain the app's purpose
+2d47bec3ec74b2bad6951e0c2eed8e55b7a52c9b 5c704fb8eb83ca71e78856fbc72f553ec16a203e mnis6010 <44164343-mnis6010@users.noreply.replit.com> 1752336440 +0000	commit: Improve ride booking with real-time location and precise location search
